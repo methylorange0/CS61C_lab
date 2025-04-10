@@ -1,3 +1,4 @@
+local
 1.ls -l
 2.mv
 3.chmod
